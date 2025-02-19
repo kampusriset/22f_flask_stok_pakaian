@@ -1,1 +1,0 @@
-# 22f_flask_stok_pakaian
