@@ -11,6 +11,7 @@ Berikut adalah flowchart yang menggambarkan alur kerjanya:
 
 ## Perkenalan Tim
 - **Andika Ilham Pradana (2213010352)** - [Programmer]
+- **Rava Eka Cahyono (2213010359)** - [Leader]
 
 ## Link Video Dokumentasi
 Silahkan klik link berikut
